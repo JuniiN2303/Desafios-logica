@@ -31,6 +31,8 @@ function logicRankedLevel() {
 
 console.log(`O Herói tem saldo de ${result} Vitórias e está Rankeado no Nível: ${finalResultLevel}`) */
 
+
+
 //******CÓDIGO 2.0******\\
 
 /*
